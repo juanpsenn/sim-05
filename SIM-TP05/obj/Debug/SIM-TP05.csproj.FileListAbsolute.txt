@@ -1,0 +1,15 @@
+C:\Users\juanp\source\repos\SIM-TP05\SIM-TP05\bin\Debug\SIM-TP05.exe.config
+C:\Users\juanp\source\repos\SIM-TP05\SIM-TP05\bin\Debug\SIM-TP05.exe
+C:\Users\juanp\source\repos\SIM-TP05\SIM-TP05\bin\Debug\SIM-TP05.pdb
+C:\Users\juanp\source\repos\SIM-TP05\SIM-TP05\bin\Debug\Colas.dll
+C:\Users\juanp\source\repos\SIM-TP05\SIM-TP05\bin\Debug\Colas.pdb
+C:\Users\juanp\source\repos\SIM-TP05\SIM-TP05\obj\Debug\SIM-TP05.csprojAssemblyReference.cache
+C:\Users\juanp\source\repos\SIM-TP05\SIM-TP05\obj\Debug\SIM_TP05.Form1.resources
+C:\Users\juanp\source\repos\SIM-TP05\SIM-TP05\obj\Debug\SIM_TP05.Properties.Resources.resources
+C:\Users\juanp\source\repos\SIM-TP05\SIM-TP05\obj\Debug\SIM-TP05.csproj.GenerateResource.cache
+C:\Users\juanp\source\repos\SIM-TP05\SIM-TP05\obj\Debug\SIM-TP05.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\SIM-TP05\SIM-TP05\obj\Debug\SIM-TP05.csproj.CopyComplete
+C:\Users\juanp\source\repos\SIM-TP05\SIM-TP05\obj\Debug\SIM-TP05.exe
+C:\Users\juanp\source\repos\SIM-TP05\SIM-TP05\obj\Debug\SIM-TP05.pdb
+C:\Users\juanp\source\repos\SIM-TP05\SIM-TP05\bin\Debug\MathNet.Numerics.dll
+C:\Users\juanp\source\repos\SIM-TP05\SIM-TP05\bin\Debug\MathNet.Numerics.xml

@@ -1,0 +1,9 @@
+C:\Users\juanp\source\repos\SIM-TP05\Colas\bin\Debug\netstandard2.0\Colas.deps.json
+C:\Users\juanp\source\repos\SIM-TP05\Colas\bin\Debug\netstandard2.0\Colas.dll
+C:\Users\juanp\source\repos\SIM-TP05\Colas\obj\Debug\netstandard2.0\Colas.csprojAssemblyReference.cache
+C:\Users\juanp\source\repos\SIM-TP05\Colas\obj\Debug\netstandard2.0\Colas.AssemblyInfoInputs.cache
+C:\Users\juanp\source\repos\SIM-TP05\Colas\obj\Debug\netstandard2.0\Colas.AssemblyInfo.cs
+C:\Users\juanp\source\repos\SIM-TP05\Colas\bin\Debug\netstandard2.0\Colas.pdb
+C:\Users\juanp\source\repos\SIM-TP05\Colas\obj\Debug\netstandard2.0\Colas.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\SIM-TP05\Colas\obj\Debug\netstandard2.0\Colas.dll
+C:\Users\juanp\source\repos\SIM-TP05\Colas\obj\Debug\netstandard2.0\Colas.pdb
